@@ -1,0 +1,18 @@
+{
+  "name": "voice-ai-sphere",
+  "version": "1.0.0",
+  "description": "Floating audio sphere with Sesame AI voice integration",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "keywords": ["voice-ai", "sesame-ai"],
+  "author": "Erik",
+  "license": "MIT"
+}
